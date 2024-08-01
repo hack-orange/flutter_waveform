@@ -124,6 +124,8 @@ class _WaveformWidgetState extends State<WaveformWidget> {
   }
 }
 
-### screen
+
 ```
+
+### screen
 ![Screenshot_20240801-115926](https://github.com/user-attachments/assets/abae68a7-1288-4070-829a-f069a5f95026)
